@@ -1,14 +1,18 @@
-# My DMenu fork from Suckless
+# Sheol's build of DMenu
 
-### Preferably install in the root directory.
-`https://github.com/demosheol/dmenu.git`
+## Installation for newbs
 
-### Fonts
 ```
-ttf-hack (URxvt)
+git clone https://github.com/demosheol/dmenu
+cd dmenu
+sudo make clean install
+```
+
+## Fonts
+
+```
 ttf-dejavu
 ttf-liberation
 ttf-droid
 ttf-inconsolata
-ttf-inconsolata-g (?)
 ```
