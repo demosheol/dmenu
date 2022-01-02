@@ -15,4 +15,5 @@ ttf-dejavu
 ttf-liberation
 ttf-droid
 ttf-inconsolata
+ttf-iosevka
 ```
